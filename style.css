@@ -1,0 +1,82 @@
+/* color-pallete { #4392F1 #478DA0 #97D8B2 #4B644A #04080F} */
+html {
+  background-color: #478da0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+html::before {
+  content: "";
+  background-image: url(https://images.unsplash.com/photo-1506157786151-b8491531f063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWMlMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80);
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.2;
+}
+
+header {
+  text-align: center;
+  margin-top: 15px;
+  position: sticky;
+  top: 0;
+}
+
+header h1 {
+  background-color: #04080f;
+  color: #4392f1;
+  font-size: 36px;
+  padding: 15px;
+  box-sizing: content-box;
+}
+
+#table-1 {
+  text-align: center;
+  font-size: 24px;
+  margin: 20px auto;
+  border: 1px solid black;
+}
+
+#table-1 thead th {
+  background-color: black;
+  color: white;
+  font-weight: 300;
+  padding: 15px;
+}
+
+#table-1 thead td {
+  font-weight: 600;
+  background-color: #4392f1;
+}
+
+#table-1 td {
+  border: 1px solid black;
+}
+
+#table-2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 20px auto;
+}
+
+#table-2 td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 600;
+}
+
+footer {
+  /* background-color: #478da0; */
+  position: fixed;
+  bottom: 0;
+  left: 25%;
+  right: 25%;
+}
+
+a {
+  color: black;
+}
