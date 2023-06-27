@@ -1,5 +1,4 @@
 # Music Festival Schedule
-<img src="logo-music-festival.png" alt="logo-music-festival">
 Projeto pessoal com HTML e CSS 🚀🎵
 
 ## Tecnologias Utilizadas:
