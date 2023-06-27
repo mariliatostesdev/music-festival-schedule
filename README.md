@@ -7,6 +7,7 @@ Projeto pessoal com HTML e CSS 🚀🎵
 
 ## Motivação
 1 - Exercício proposto no curso de Front-End Engineer da CodeCademy
+
 2 - Colocando em prático o aprendizado de tabelas e listas
 
 ## Overview
