@@ -6,7 +6,8 @@ Projeto pessoal com HTML e CSS 🚀🎵
 - CSS
 
 ## Motivação
-1 - Exercício proposto no curso de Front-End Engineer da CodeCademy 
+1 - Exercício proposto no curso de Front-End Engineer da CodeCademy
+
 2 - Colocando em prática o aprendizado de tabelas e listas
 
 ## Overview
