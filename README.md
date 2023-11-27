@@ -39,4 +39,4 @@ O projeto utiliza um arquivo CSS externo (`style.css`) para estilização. Algum
 
 - **Email:** mahtostes.dev@gmail.com
 - **LinkedIn:** [LinkedIn - Marília Ribeiro Tostes](https://www.linkedin.com/in/marilia-ribeiro-tostes/)
-- **Whatsapp:** +55 67 981443147
+- **Whatsapp:** [Fale comigo!](https://wa.me/5567981443147)
