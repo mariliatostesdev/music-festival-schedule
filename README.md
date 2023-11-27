@@ -3,14 +3,19 @@ Um projeto fictício de um festival de música pop em São Paulo, apresentado co
  <br />
 Desenvolvido como parte do curso de Front-End Engineer da CodeCademy.
 
-## Tecnologias Utilizadas:
-- HTML
-- CSS
+## Visão Geral
+Colocando em prática o aprendizado de tabelas e listas.
+Este projeto simula o site de um festival de música pop fictício em São Paulo chamado "POP Music Festival", com informações sobre o cronograma do festival e links úteis.
+Exercício proposto no curso de Front-End Engineer da CodeCademy.
 
 ## Preview e Acesso à página
 <img src="./music-festival.png" alt="music-festival-schedule-page-overview">
 Acesso à página: https://mariliatostesdev.github.io/music-festival-schedule/
 
+## Tecnologias Utilizadas:
+- HTML
+- CSS
+- 
 ## Conteúdo
 
 - [Visão Geral](#visão-geral)
@@ -19,10 +24,6 @@ Acesso à página: https://mariliatostesdev.github.io/music-festival-schedule/
 - [Contato](#contato)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
-## Visão Geral
-Colocando em prática o aprendizado de tabelas e listas.
-Este projeto simula o site de um festival de música pop fictício em São Paulo chamado "POP Music Festival", com informações sobre o cronograma do festival e links úteis.
-Exercício proposto no curso de Front-End Engineer da CodeCademy.
 
 ## Páginas
 
