@@ -15,7 +15,7 @@ Acesso à página: https://mariliatostesdev.github.io/music-festival-schedule/
 ## Tecnologias Utilizadas:
 - HTML
 - CSS
-- 
+  
 ## Conteúdo
 
 - [Visão Geral](#visão-geral)
