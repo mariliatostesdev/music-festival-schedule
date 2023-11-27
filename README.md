@@ -12,10 +12,10 @@ Conteúdo
 ### Conteúdo
 - [Visão Geral](#visão-geral)
 - [Preview e Acesso à Página Geral](#preview-e-acesso-à-página)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Páginas](#páginas)
 - [Estilo](#estilo)
 - [Contato](#contato)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 ## Preview e Acesso à Página
 <img src="./music-festival.png" alt="music-festival-schedule-page-overview">
